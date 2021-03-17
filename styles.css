@@ -12,13 +12,13 @@ div.row div{
     background-color: blue;
 }
 .coin{
-    background: url('coin.gif');
+    background: url("coin.gif");
     background-repeat: no-repeat;
     background-position: center;
     background-size: 17px;
 }
 .cherry {
-    background: url('cherry.png');
+    background: url("cherry.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
